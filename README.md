@@ -1,7 +1,7 @@
 # Admin Panel
 Laravel 8 Admin Panel with API using Jetstream, Livewire, Sanctum, and Tailwind.
 
-1. `git clone https://github.com/mark1saeid/iptv-dashboard.git`
+1. `git clone https://github.com/mark1saeid/admin-panel.git`
 2. `cd laravel-news`
 3. `composer install`
 4. `cp .env.example .env`
